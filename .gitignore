@@ -13,9 +13,6 @@ dist/
 build/
 out/
 
-# File uploads
-uploads/
-
 # Logs
 logs/
 *.log
